@@ -8,7 +8,7 @@
 - **Ferramentas e Tecnologias:** Git, Github, Figma 
 - **Banco de Dados:** PhpMyAdmin, MySQL, PostGreeSQL
 
-- 🏢 **Onde Trabalho Atualmente:**
+🏢 **Onde Trabalho Atualmente:**
 Atualmente, estou empregado na [DetroRJ], onde colaboro no desenvolvimento de soluções e novos sitemas em Php, JavaScript, React e Python
 
 🚀 **Projetos Destacados:**
