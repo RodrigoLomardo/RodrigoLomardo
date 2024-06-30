@@ -8,6 +8,9 @@
 - **Ferramentas e Tecnologias:** Git, Github, Figma 
 - **Banco de Dados:** PhpMyAdmin, MySQL, PostGreeSQL
 
+- 🏢 **Onde Trabalho Atualmente:**
+Atualmente, estou empregado na [DetroRJ], onde colaboro no desenvolvimento de soluções e novos sitemas em Php, JavaScript, React e Python
+
 🚀 **Projetos Destacados:**
 - Portfólio[https://rdevv.netlify.app] - Meu projeto de portfólio pessoal feito em Next.js.
 - Cadastro de Usuarios[https://github.com/RodrigoLomardo/cadastro_clientes] - Automatização de Cadastro de usuarios com Python
