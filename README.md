@@ -65,11 +65,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/RodrigoLomardo">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RodrigoLomardo&theme=radical" alt="Al Siam's GitHub Contribution"/>
-  </a>
-</p>
 
 <a> 
     <a href="https://github.com/RodrigoLomardo"><img alt="Rodrigo Lomardo Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=RodrigoLomardo&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
@@ -83,6 +78,8 @@
 
 
 ## Top Open Source -
+
+
 [![e-commerce](https://github-readme-stats.vercel.app/api/pin/?username=RodrigoLomardo&repo=e-commerce&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF&card_width=10px)](https://github.com/RodrigoLomardo/e-commerce)
 [![itau-lp](https://github-readme-stats.vercel.app/api/pin/?username=RodrigoLomardo&repo=itau-lp&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/RodrigoLomardo/itau-lp)
 [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=RodrigoLomardo&repo=rdev&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/RodrigoLomardo/rdev)
